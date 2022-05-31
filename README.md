@@ -4,4 +4,7 @@ Our first DSCI 100 Git Repository
 Hello Summer 2022 Class!
 
 We can clone our project down into our home folder.
-Use the https URL.
+
+ - Use the https URL.
+
+To cerate a PAT you go to settings > developer setting > Personal Access Token 
